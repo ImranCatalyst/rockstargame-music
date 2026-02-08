@@ -17,14 +17,14 @@
   { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/For%20Now.mp3", "name": "For Now" },
   { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/From%20the%20Ashes.mp3", "name": "From the Ashes" },
   { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/Hope%20in%20the%20Static.mp3", "name": "Hope in the Static" },
-  { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/Walk%20Alone.mp3", "name": "Walk Alone" },
+  { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/I%20Walk%20Alone.mp3", "name": "I Walk Alone" },
   { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/Let%20Me%20Drive.mp3", "name": "Let Me Drive" },
   { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/Lonely%20Echoes.mp3", "name": "Lonely Echoes" },
   { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/Lost.mp3", "name": "Lost" },
   { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/Main%20Menu%20Anthem.mp3", "name": "Main Menu Anthem" },
   { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/Neon%20Backstage.mp3", "name": "Neon Backstage" },
   { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/Never%20Enough.mp3", "name": "Never Enough" },
-  { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/No%20Man%20Can%20Kill.mp3", "name": "No Man Can Kill" },
+  { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/No%20Man%20Can%20Kill%20Me.mp3", "name": "No Man Can Kill Me" },
   { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/One%20More%20Week.mp3", "name": "One More Week" },
   { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/Rebel%20Anthem.mp3", "name": "Rebel Anthem" },
   { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/Remember%20Me.mp3", "name": "Remember Me" },
@@ -47,7 +47,7 @@
   { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/Unbound.mp3", "name": "Unbound" },
   { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/We%20Fall.mp3", "name": "We Fall" },
   { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/What%20I%20Became.mp3", "name": "What I Became" },
-  { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/Won't%20Back%20Down.mp3", "name": "Won't Back Down" },
-  { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/You%20Don't%20Get%20to%20Walk%20Away.mp3", "name": "You Don't Get to Walk Away" },
-  { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/You%20Should've%20Stayed%20Gone.mp3", "name": "You Should've Stayed Gone" }
+  { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/Won%E2%80%99t%20Back%20Down.mp3", "name": "Won't Back Down" },
+  { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/You%20Don%E2%80%99t%20Get%20to%20Walk%20Away.mp3", "name": "You Don't Get to Walk Away" },
+  { "link": "https://github.com/ImranCatalyst/rockstargame-music/raw/refs/heads/main/Music/You%20Should%E2%80%99ve%20Stayed%20Gone.mp3", "name": "You Should've Stayed Gone" }
 ]
